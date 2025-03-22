@@ -1,0 +1,4 @@
+name: DamageShare
+version: '1.0-SNAPSHOT'
+main: org.tools.damageShare.DamageShare
+api-version: '1.21'
